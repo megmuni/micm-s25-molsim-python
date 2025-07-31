@@ -11,14 +11,6 @@ Duration: ~4 hours
 ## Requirements
 * Basic Python knowledge (syntax, file I/O)
 * Access to Google Colab
-
-<If a unix terminal is needed, include instructions to download it on windows>
-We will be using the unix terminal to run our analyses. so be sure you have access to one. 
-* Mac OS and any linux distribution will have a terminal already
-    * Mac OS: search for terminal in your spotlight search
-* Windows users: 
-    * Option 1: Download a [unix subsystem (WSL)](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview) **recommended
-    * Option 2: Download [MobaXterm](https://mobaxterm.mobatek.net/)
    
 ## Sofware <List of software that will be used during the workshop>
 * Please ensure that you have a Google account to use Google Colab.
