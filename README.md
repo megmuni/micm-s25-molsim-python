@@ -26,8 +26,7 @@ Duration: ~4 hours
    - Basics of MD (force fields, MD algorithm)
    - Hands-on: Performing an MD simulation in Python
 * Analyzing Molecular Simulations in Python
-   - Hands-on: using NGLView to watch MD trajectories
-   - Using Pandas and Matplotlib to output physical quantities
+   - Hands-on: using ML to analyze MD trajectories
 
 ## References
 *Material created by Meghana Munipalle*
