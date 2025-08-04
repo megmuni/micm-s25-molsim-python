@@ -1,3 +1,3 @@
-## Add here instructions/pipeline
+Instructions/pipeline
 
-Inside this directory add data, scripts and results of exercises
+Download all the pdb files in /data and all notebooks in /scripts into the same folder in your Google Drive.
