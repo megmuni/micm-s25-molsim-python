@@ -3,8 +3,7 @@
 ## Overview
 Welcome to the Intro to Molecular Simulations workshop!
 
-In this workshop, 
-This workshop will introduce molecular simulation, a powerful type of modeling with applications in many fields, including chemistry, biology, physics, medicine, and more. The theory behind two common forms of molecular modeling, molecular dynamics (MD) and Monte Carlo (MC), will be reviewed, and we will use Python to set up, run, and analyze these two types of simulations. 
+This workshop will introduce molecular simulations, a powerful type of modeling with applications in many fields, including chemistry, biology, physics, medicine, and more. The theory behind two common forms of molecular modeling, molecular dynamics (MD) and Monte Carlo (MC), will be reviewed, and we will use Python to set up, run, and analyze these two types of simulations. 
 
 Duration: ~4 hours
    
